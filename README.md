@@ -5,7 +5,7 @@
 This version only supports revolute joints. 
 Handling of forces can be ameliorated 
 
-Script uses the body coordinate method and was written using the contents of: 
+Script uses the body coordinate method and was written using the contents from: 
 
 "Planar Multibody Dynamics: Forumlation, Programming, and Application" 
 by Parviz E. Nikravesh
